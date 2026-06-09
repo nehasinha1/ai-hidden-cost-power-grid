@@ -21,7 +21,7 @@
 ## Methodology
 
 ```
-Public financial filings + AI investment disclosures (Excel)
+S&P 500 public financial filings + Stanford HAI AI Index + McKinsey State of AI
     │
     ▼
 Excel (data cleaning, investment scoring, outcome indexing, pivot analysis)
