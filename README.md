@@ -2,7 +2,7 @@
 
 **Tools:** Excel/Spreadsheets · MS Visio · SharePoint · ServiceNow
 
-> **TL;DR:** Higher AI investment does not guarantee better business outcomes. Analysis of 17 companies across 6 industries from 2024–2026 shows inconsistent ROI - with some of the highest AI spenders reporting negative revenue growth. This project examines where AI investment pays off and where it becomes a financial trap.
+> **TL;DR:** Higher AI investment does not guarantee better business outcomes. Analysis of 17 companies across 6 industries from 2024–2026 shows inconsistent ROI, with some of the highest AI spenders reporting negative revenue growth. This project examines where AI investment pays off and where it becomes a financial trap.
 
 ## Key Questions
 
@@ -43,9 +43,7 @@ ServiceNow (CMDB-style documentation template for tracking AI initiative ROI)
 
 ## SharePoint Documentation
 
-📄 [`sharepoint-docs/project_documentation.docx`](https://github.com/nehasinha1/ai-roi-reality-check/blob/main/sharepoint-docs/project_documentation.docx)
-
-Project documentation maintained in SharePoint-style Word format (.docx) - download to view full formatted document.
+📄 [`AI_Investment_ROI_Analysis_2024_2026.docx`](https://github.com/nehasinha1/ai-roi-reality-check/blob/main/sharepoint-docs/AI_Investment_ROI_Analysis_2024_2026.docx)
 
 ## Files
 
@@ -54,7 +52,7 @@ Project documentation maintained in SharePoint-style Word format (.docx) - downl
 | [`data/ai_investment_business_outcomes_2024_2026.csv`](data/ai_investment_business_outcomes_2024_2026.csv) | AI investment and business outcome data for 17 companies across 6 industries, 2024–2026 |
 | [`excel/ai_roi_analysis.xlsx`](excel/ai_roi_analysis.xlsx) | Excel workbook: raw data, summary analysis, investment vs ROI, industry comparison |
 | [`diagrams/ai_investment_decision_flow.png`](diagrams/ai_investment_decision_flow.png) | MS Visio-style process flow diagram |
-| [`sharepoint-docs/project_documentation.docx`](sharepoint-docs/project_documentation.docx) | SharePoint-style project wiki |
+| [`sharepoint-docs/AI_Investment_ROI_Analysis_2024_2026.docx`](sharepoint-docs/AI_Investment_ROI_Analysis_2024_2026.docx) | SharePoint-style project wiki |
 | [`servicenow/servicenow_change_request.pdf`](servicenow/servicenow_change_request.pdf) | ServiceNow change request ticket |
 
 ## Key Findings (2024–2026 Data)
