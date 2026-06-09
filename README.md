@@ -56,3 +56,13 @@ Project documentation maintained in SharePoint-style Word format (.docx) - downl
 - **Consulting leads on ROI efficiency:** McKinsey generates 18–20% ROI on relatively modest AI spend (~$420–480M), outperforming firms spending 10x more
 - **Healthcare is improving:** Pfizer reversed negative revenue growth (-4.8% in 2024 Q1) to positive territory (+4.8%) by 2025 Q2 as AI initiatives matured
 
+## Files
+
+| File | Description |
+|---|---|
+| [`data/ai_investment_business_outcomes_2024_2026.csv`](data/ai_investment_business_outcomes_2024_2026.csv) | AI investment and business outcome data for 17 companies across 6 industries, 2024–2026 |
+| [`excel/ai_roi_analysis.xlsx`](excel/ai_roi_analysis.xlsx) | Excel workbook: raw data, summary analysis, investment vs ROI, industry comparison |
+| [`diagrams/ai_investment_decision_flow.png`](diagrams/ai_investment_decision_flow.png) | MS Visio-style process flow diagram |
+| [`sharepoint-docs/project_documentation.docx`](sharepoint-docs/project_documentation.docx) | SharePoint-style project wiki |
+| [`servicenow/servicenow_change_request.pdf`](servicenow/servicenow_change_request.pdf) | ServiceNow change request ticket |
+
