@@ -39,6 +39,12 @@ SharePoint (documentation and stakeholder reporting hub)
 ServiceNow (CMDB-style documentation template for tracking AI initiative ROI)
 ```
 
+## SharePoint Documentation
+
+📄 [`sharepoint-docs/project_documentation.docx`](https://github.com/nehasinha1/ai-roi-reality-check/blob/main/sharepoint-docs/project_documentation.docx)
+
+Project documentation maintained in SharePoint-style Word format (.docx) — download to view full formatted document.
+
 ## Data Sources
 
 | Dataset | Source | Last Updated |
