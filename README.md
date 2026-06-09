@@ -2,6 +2,8 @@
 
 **Tools:** Excel/Spreadsheets · MS Visio · SharePoint · ServiceNow
 
+> **TL;DR:** Higher AI investment does not guarantee better business outcomes. Analysis of 17 companies across 6 industries from 2024–2026 shows inconsistent ROI — with some of the highest AI spenders reporting negative revenue growth. This project examines where AI investment pays off and where it becomes a financial trap.
+
 ## Process Flow Diagram
 
 📋 **AI Investment Decision Flow (MS Visio)**
