@@ -1,6 +1,8 @@
 # AI Investment vs Business Outcomes
 
-**Tools:** Excel/Spreadsheets · MS Visio · Tableau · ServiceNow
+**Tools:** Excel/Spreadsheets · MS Visio · SharePoint · ServiceNow
+
+> 🚧 **Status: In Progress**
 
 ## Business Question
 
@@ -27,7 +29,7 @@ Excel (data cleaning, investment scoring, outcome indexing, pivot analysis)
 MS Visio (framework diagram: AI investment → business outcome pathways)
     │
     ▼
-Tableau (dashboard: investment vs. outcome scatter plots, filtered by industry/size)
+SharePoint (documentation and stakeholder reporting hub)
     │
     ▼
 ServiceNow (CMDB-style documentation template for tracking AI initiative ROI)
