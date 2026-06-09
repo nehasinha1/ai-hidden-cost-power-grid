@@ -6,7 +6,7 @@
 
 📋 **AI Investment Decision Flow (MS Visio)**
 
-![AI Investment Decision Flow](diagrams/ai_investment_flow.png)
+![AI Investment Decision Flow](diagrams/ai_investment_decision_flow.png)
 
 ## Business Question
 
