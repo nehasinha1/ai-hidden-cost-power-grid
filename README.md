@@ -2,6 +2,10 @@
 
 **Tools:** SQL · Tableau · MS Visio · ServiceNow
 
+## Datasets
+
+- 📄 [datacenter_energy_by_region_2024_2026.csv](https://github.com/nehasinha1/ai-hidden-cost-power-grid/blob/main/data/datacenter_energy_by_region_2024_2026.csv)
+
 ## Overview
 
 U.S. data centers consumed **183 TWh of electricity in 2024** — over 4% of total national supply — and that figure is projected to reach **426 TWh by 2030**, a 133% increase driven almost entirely by AI workload growth. This project quantifies the energy and grid-infrastructure burden of AI at scale, mapping data center power draw against regional grid capacity, state-level concentration, utility rate structures, and carbon intensity through 2026.
