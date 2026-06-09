@@ -41,8 +41,6 @@ ServiceNow (CMDB-style documentation template for tracking AI initiative ROI)
 
 ![AI Investment Decision Flow](diagrams/ai_investment_decision_flow.png)
 
-📄 [`sharepoint-docs/project_documentation.docx`](https://github.com/nehasinha1/ai-roi-reality-check/blob/main/sharepoint-docs/project_documentation.docx)
-
 Project documentation maintained in SharePoint-style Word format (.docx) - download to view full formatted document.
 
 ## Files
