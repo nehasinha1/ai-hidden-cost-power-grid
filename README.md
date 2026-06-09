@@ -45,6 +45,8 @@ ServiceNow (CMDB-style documentation template for tracking AI initiative ROI)
 
 📄 [`AI_Investment_ROI_Analysis_2024_2026.docx`](https://github.com/nehasinha1/ai-roi-reality-check/blob/main/sharepoint-docs/AI_Investment_ROI_Analysis_2024_2026.docx)
 
+Project documentation maintained in SharePoint-style Word format (.docx) - download to view full formatted document.
+
 ## Files
 
 | File | Description |
