@@ -21,7 +21,7 @@ U.S. data centers consumed **183 TWh of electricity in 2024** — over 4% of tot
 
 | Dataset | Source | Last Updated |
 |---|---|---|
-| `datacenter_energy_by_region_2024_2026.csv` | [EIA Annual Energy Outlook 2026](https://www.eia.gov/outlooks/aeo/) · [Pew Research Center Oct 2025](https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/) · [IEA Energy and AI 2025](https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai) | April 2026 |
+| [`datacenter_energy_by_region_2024_2026.csv`](https://github.com/nehasinha1/ai-hidden-cost-power-grid/blob/main/data/datacenter_energy_by_region_2024_2026.csv) | [EIA Annual Energy Outlook 2026](https://www.eia.gov/outlooks/aeo/) · [Pew Research Center Oct 2025](https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/) · [IEA Energy and AI 2025](https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai) | April 2026 |
 
 ### Schema: `datacenter_energy_by_region_2024_2026.csv`
 `Region` · `State_Country` · `Year` · `Quarter` · `DC_Count` · `DC_Demand_TWh_Annualized` · `Total_Grid_Capacity_TWh` · `DC_Share_Of_Grid_Pct` · `Renewable_Share_Pct` · `Natural_Gas_Share_Pct` · `Nuclear_Share_Pct` · `Coal_Share_Pct` · `Carbon_Intensity_gCO2_kWh` · `Avg_Rate_USD_kWh` · `Grid_Stress_Level` · `Source`
