@@ -2,8 +2,6 @@
 
 **Tools:** Excel/Spreadsheets · MS Visio · Tableau · ServiceNow
 
-> 🚧 **Status: In Progress**
-
 ## Business Question
 
 **Are companies that invest most in AI actually outperforming those that don't?**
@@ -42,13 +40,6 @@ ServiceNow (CMDB-style documentation template for tracking AI initiative ROI)
 | Enterprise AI investment disclosures | S&P 500 earnings call transcripts · Crunchbase · PitchBook | Sourcing |
 | Business outcome metrics | Bloomberg · Compustat · public 10-K filings | Sourcing |
 | AI adoption benchmarks | [Stanford HAI AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report) · [McKinsey State of AI 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) | Available |
-
-## Planned Deliverables
-
-- [ ] Excel workbook: AI investment scoring model + outcome index
-- [ ] MS Visio: investment-to-outcome framework diagram
-- [ ] Tableau dashboard: interactive scatter plot (AI spend vs. business KPIs)
-- [ ] ServiceNow template: AI initiative ROI tracking schema
 
 ---
 
