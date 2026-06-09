@@ -82,11 +82,11 @@ ServiceNow CMDB template (AI infrastructure asset tracking with energy SLA field
 
 | File | Description |
 |---|---|
-| `data/datacenter_energy_by_region_2024_2026.csv` | Quarterly DC demand, grid share, carbon intensity by US region (2024–2026) |
-| `sql/energy_cost_model.sql` | Per-query cost model: compute + cooling + hardware depreciation |
-| `sql/grid_stress_analysis.sql` | Regional capacity utilization and stress event aggregation |
-| `visio/datacenter_grid_diagram.pdf` | Infrastructure diagram: AI query → data center → regional grid |
-| `servicenow/cmdb_ai_infra_template.xlsx` | CMDB schema for AI infrastructure asset tracking with energy SLA fields |
+| [`data/datacenter_energy_by_region_2024_2026.csv`](data/datacenter_energy_by_region_2024_2026.csv) | Quarterly DC demand, grid share, carbon intensity by US region (2024–2026) |
+| [`sql/energy_cost_model.sql`](sql/energy_cost_model.sql) | Per-query cost model: compute + cooling + hardware depreciation |
+| [`sql/grid_stress_analysis.sql`](sql/grid_stress_analysis.sql) | Regional capacity utilization and stress event aggregation |
+| [`visio/datacenter_grid_diagram.pdf`](visio/datacenter_grid_diagram.pdf) | Infrastructure diagram: AI query → data center → regional grid |
+| [`servicenow/cmdb_ai_infra_template.xlsx`](servicenow/cmdb_ai_infra_template.xlsx) | CMDB schema for AI infrastructure asset tracking with energy SLA fields |
 
 ---
 
