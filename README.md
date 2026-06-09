@@ -35,7 +35,7 @@ SharePoint (documentation and stakeholder reporting hub)
 ServiceNow (CMDB-style documentation template for tracking AI initiative ROI)
 ```
 
-## Process Flow & Documentation
+## Process Flow
 
 📋 **AI Investment Decision Flow (MS Visio)**
 
