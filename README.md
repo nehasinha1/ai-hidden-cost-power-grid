@@ -2,8 +2,6 @@
 
 **Tools:** Excel/Spreadsheets · MS Visio · SharePoint · ServiceNow
 
-> 🚧 **Status: In Progress**
-
 ## Business Question
 
 **Are companies that invest most in AI actually outperforming those that don't?**
