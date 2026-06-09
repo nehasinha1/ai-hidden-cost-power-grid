@@ -49,4 +49,4 @@ ServiceNow (CMDB-style documentation template for tracking AI initiative ROI)
 
 ---
 
-*Analysis by Neha Sinha · [GitHub](https://github.com/nehasinha1) · [LinkedIn](https://www.linkedin.com/in/nehasinha27788/)*
+*Analysis by Neha Sinha · [LinkedIn](https://www.linkedin.com/in/nehasinha27788/)*
