@@ -10,11 +10,6 @@
 
 ![AI Investment Decision Flow](diagrams/ai_investment_decision_flow.png)
 
-## Business Question
-
-**Are companies actually getting returns on their AI investments?**
-
-A data-driven analysis of AI investment returns across industries, examining whether increased AI spending translates to measurable business outcomes. This project cross-references AI investment figures against revenue growth, operating margins, employee productivity scores, and ROI across 17 companies from 2024 to 2026.
 
 ## Key Questions
 
@@ -61,6 +56,3 @@ Project documentation maintained in SharePoint-style Word format (.docx) — dow
 - **Consulting leads on ROI efficiency:** McKinsey generates 18–20% ROI on relatively modest AI spend (~$420–480M), outperforming firms spending 10x more
 - **Healthcare is improving:** Pfizer reversed negative revenue growth (-4.8% in 2024 Q1) to positive territory (+4.8%) by 2025 Q2 as AI initiatives matured
 
----
-
-*Analysis by Neha Sinha · [LinkedIn](https://www.linkedin.com/in/nehasinha27788/)*
