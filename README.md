@@ -48,14 +48,6 @@ Project documentation maintained in SharePoint-style Word format (.docx) - downl
 |---|---|---|
 | [`ai_investment_business_outcomes_2024_2026.csv`](https://github.com/nehasinha1/ai-hidden-cost-power-grid/blob/main/data/ai_investment_business_outcomes_2024_2026.csv) | [S&P 500 filings](https://www.macrotrends.net/stocks/research) · [Stanford HAI AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report) · [McKinsey State of AI 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) | June 2026 |
 
-## Key Findings (2024–2026 Data)
-
-- **Higher spend ≠ higher returns:** IBM ($3.5B AI spend) posted just 1.6% revenue growth and 4.8% ROI in 2024 Q4
-- **Negative ROI is common:** Citi (-3.8%), Ford (-6.8%), and Target (-4.2%) all reported negative AI ROI in 2024 Q1 despite significant investment
-- **Outliers exist:** Microsoft consistently delivers 31–39% AI ROI - but its scale and integration depth are exceptional, not typical
-- **Consulting leads on ROI efficiency:** McKinsey generates 18–20% ROI on relatively modest AI spend (~$420–480M), outperforming firms spending 10x more
-- **Healthcare is improving:** Pfizer reversed negative revenue growth (-4.8% in 2024 Q1) to positive territory (+4.8%) by 2025 Q2 as AI initiatives matured
-
 ## Files
 
 | File | Description |
@@ -65,4 +57,12 @@ Project documentation maintained in SharePoint-style Word format (.docx) - downl
 | [`diagrams/ai_investment_decision_flow.png`](diagrams/ai_investment_decision_flow.png) | MS Visio-style process flow diagram |
 | [`sharepoint-docs/project_documentation.docx`](sharepoint-docs/project_documentation.docx) | SharePoint-style project wiki |
 | [`servicenow/servicenow_change_request.pdf`](servicenow/servicenow_change_request.pdf) | ServiceNow change request ticket |
+
+## Key Findings (2024–2026 Data)
+
+- **Higher spend ≠ higher returns:** IBM ($3.5B AI spend) posted just 1.6% revenue growth and 4.8% ROI in 2024 Q4
+- **Negative ROI is common:** Citi (-3.8%), Ford (-6.8%), and Target (-4.2%) all reported negative AI ROI in 2024 Q1 despite significant investment
+- **Outliers exist:** Microsoft consistently delivers 31–39% AI ROI - but its scale and integration depth are exceptional, not typical
+- **Consulting leads on ROI efficiency:** McKinsey generates 18–20% ROI on relatively modest AI spend (~$420–480M), outperforming firms spending 10x more
+- **Healthcare is improving:** Pfizer reversed negative revenue growth (-4.8% in 2024 Q1) to positive territory (+4.8%) by 2025 Q2 as AI initiatives matured
 
