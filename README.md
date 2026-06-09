@@ -33,15 +33,6 @@ SharePoint (documentation and stakeholder reporting hub)
 ServiceNow (CMDB-style documentation template for tracking AI initiative ROI)
 ```
 
-## Datasets
-
-- 📄 [`ai_investment_business_outcomes_2024_2026.csv`](https://github.com/nehasinha1/ai-hidden-cost-power-grid/blob/main/data/ai_investment_business_outcomes_2024_2026.csv)
-
-### Schema
-`Company` · `Industry` · `Region` · `AI_Investment_USD_Millions` · `Revenue_Growth_Pct` · `Profit_Margin_Pct` · `Employee_Productivity_Score` · `AI_ROI_Pct` · `Year` · `Quarter`
-
-**Coverage:** 88 rows · 17 companies · 6 industries · 2024–2026
-
 ## Data Sources
 
 | Dataset | Source | Last Updated |
