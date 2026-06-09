@@ -35,11 +35,12 @@ ServiceNow (CMDB-style documentation template for tracking AI initiative ROI)
 
 ## Data Sources
 
-| Dataset | Source | Status |
+| Dataset | Source | Last Updated |
 |---|---|---|
-| Enterprise AI investment disclosures | S&P 500 earnings call transcripts · Crunchbase · PitchBook | Sourcing |
-| Business outcome metrics | Bloomberg · Compustat · public 10-K filings | Sourcing |
-| AI adoption benchmarks | [Stanford HAI AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report) · [McKinsey State of AI 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) | Available |
+| [`ai_investment_business_outcomes_2024_2026.csv`](https://github.com/nehasinha1/ai-hidden-cost-power-grid/blob/main/data/ai_investment_business_outcomes_2024_2026.csv) | S&P 500 filings · Crunchbase · [Stanford HAI AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report) · [McKinsey State of AI 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) | June 2026 |
+
+### Schema
+`Company` · `Industry` · `Region` · `AI_Investment_USD_Millions` · `Revenue_Growth_Pct` · `Profit_Margin_Pct` · `Employee_Productivity_Score` · `AI_ROI_Pct` · `Year` · `Quarter`
 
 ---
 
