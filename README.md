@@ -2,6 +2,12 @@
 
 **Tools:** Excel/Spreadsheets · MS Visio · SharePoint · ServiceNow
 
+## Process Flow Diagram
+
+📋 **AI Investment Decision Flow (MS Visio)**
+
+![AI Investment Decision Flow](diagrams/ai_investment_flow.png)
+
 ## Business Question
 
 **Are companies actually getting returns on their AI investments?**
